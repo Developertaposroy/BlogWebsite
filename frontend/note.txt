@@ -1,0 +1,5 @@
+Netlify Link: https://blogwebsite-tapos.netlify.app/
+
+client side repository link:- https://github.com/Developertaposroy/BlogWebsite/tree/main/frontend
+
+server site github repository link:- https://github.com/Developertaposroy/BlogWebsite/tree/main/blog-web-backend
